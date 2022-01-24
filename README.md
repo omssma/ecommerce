@@ -31,4 +31,3 @@ To use the app the folowing dependencies are required:
 -express
 
 #Walkthrough Video
- https://watch.screencastify.com/v/q7iYBpPaK60gcO4T5IK0
